@@ -1,4 +1,8 @@
 _repo: Titan-of-Chasms-The-Grand-Canyon-of-Arizona_50355
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50355-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Powell, John Wesley
@@ -22,6 +26,8 @@ creator:
     gutenberg_agent_id: '36200'
     url: http://www.gutenberg.org/2009/agents/36200
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50355#Titan-of-Chasms-The-Grand-Canyon-of-Arizona
 gutenberg_issued: '2015-10-31'
 gutenberg_type: Text
 identifiers:
